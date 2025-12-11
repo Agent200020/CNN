@@ -1,6 +1,6 @@
-# Cats vs Dogs Classifier (PyTorch)
+# Cats vs Dogs Classifier
 
-Классический проект по классификации изображений «Кошки vs Собаки», выполненный на PyTorch.  
+Классический проект по классификации изображений «Кошки vs Собаки».  
 Репозиторий включает полный ML-pipeline:
 
 - Подготовка датасета
@@ -26,7 +26,7 @@
    python tools/split.py --input /path/to/images --output data
 
 
-Структурf 
+Структура
 
     data
   
